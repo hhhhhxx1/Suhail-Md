@@ -2,13 +2,13 @@
 <p align="center"> A simple mother fuckerbot with rich features. </p>
 
  
-<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h3 align="center"> <a href="[https://telegra.ph/file/58f3cda88c5e7b743400b.jpg](https://telegra.ph/file/58f3cda88c5e7b743400b.jpg)">🍫 FUCK YOU BABY😙💋 🍫</a></h3> 
 
 <h4 align="center"> ✔️ added Heroku Ban Problem ✔️</h4> 
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhaitechinfo">
+  <a href="https://telegra.ph/file/58f3cda88c5e7b743400b.jpg">
     <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
