@@ -75,7 +75,7 @@ module.exports = {
   caption : process.env.CAPTION || " 𝑅𝛪𝐽𝑈-𝛸𝛭𝐷" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ  𝑅𝛪𝐽𝑈-𝛸 』```", //*『follow•』*https://www.instagram.com/riju_editz_1?igsh=dDJsdTlkOGVlbnAx"),
  
   author : process.env.PACK_AUTHER|| " 𝑅𝛪𝐽𝑈",
-  packname: process.env.PACK_NAME || " 𝑅𝛪𝐽𝑈-𝛸𝛭",
+  packname: process.env.PACK_NAME || " 𝑅𝛪𝐽𝑈-𝛸",
   botname : process.env.BOT_NAME  || " 𝑅𝛪𝐽𝑈-𝛸𝛭𝐷",
   ownername:process.env.OWNER_NAME|| " 𝑅𝛪𝐽𝑈-𝛸𝛭",
 
