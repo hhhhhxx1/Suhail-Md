@@ -69,7 +69,7 @@ module.exports = {
 
   menu: process.env.MENU || "", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Suhail-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
 
-  HANDLERS: process.env.PREFIX  || ".",
+  HANDLERS: process.env.PREFIX  || ",",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.3.4",
   caption : process.env.CAPTION || " 𝑅𝛪𝐽𝑈-𝛸𝛭𝐷" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ  𝑅𝛪𝐽𝑈-𝛸 』```", //*『follow•』*https://www.instagram.com/riju_editz_1?igsh=dDJsdTlkOGVlbnAx"),
