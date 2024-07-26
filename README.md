@@ -1,14 +1,14 @@
- <h1 align="center"> Suhail Md </h1> 
-<p align="center"> A simple WhatsApp bot with rich features. </p>
+ <h1 align="center"> MOTHER FUCKER BOT🙂💦</h1> 
+<p align="center"> A simple mother fuckerbot with rich features. </p>
 
  
 <h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
-<h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
+<h4 align="center"> ✔️ added Heroku Ban Problem ✔️</h4> 
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
+  <a href="https://youtube.com/@suhaitechinfo">
     <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
@@ -74,7 +74,7 @@
   <a href="https://suhail-web01.vercel.app/deploy?platform=heroku"> <img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"> </a>
   <a href="https://suhail-web01.vercel.app/deploy?platform=repl"  > <img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"> </a>
   <a href="https://suhail-web01.vercel.app/deploy?platform=koyed" > <img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white">    </a>
- <a href="https://suhail-web01.vercel.app/deploy?platform=glitch" > <img src="https://img.shields.io/badge/glitch-033604?style=for-the-badge&logo=glitch&logoColor=darkred"></a>
+ <a href="https://suhail-web01.vercel.app/deploy?platform=glitch" > <img src="[https://img.shields.io/badge/glitch-033604?style=for-the-badge&logo=glitch&logoColor=darkred](https://telegra.ph/file/58f3cda88c5e7b743400b.jpg)"></a>
 </p>
 <p align="center">
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
