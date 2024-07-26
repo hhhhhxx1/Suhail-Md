@@ -72,10 +72,10 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.3.4",
-  caption : process.env.CAPTION || "©sᴜʜᴀɪʟ²²¹-ᴍᴅ" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || " 𝑅𝛪𝐽𝑈-𝛸𝛭𝐷" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ  𝑅𝛪𝐽𝑈-𝛸 』```", //*『follow•』*https://www.instagram.com/riju_editz_1?igsh=dDJsdTlkOGVlbnAx"),
  
-  author : process.env.PACK_AUTHER|| "",
-  packname: process.env.PACK_NAME || "",
+  author : process.env.PACK_AUTHER|| " 𝑅𝛪𝐽𝑈",
+  packname: process.env.PACK_NAME || " 𝑅𝛪𝐽𝑈-𝛸𝛭",
   botname : process.env.BOT_NAME  || " 𝑅𝛪𝐽𝑈-𝛸𝛭𝐷",
   ownername:process.env.OWNER_NAME|| " 𝑅𝛪𝐽𝑈-𝛸𝛭",
 
@@ -91,7 +91,7 @@ module.exports = {
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
 
 
-  WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "public",
+  WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "private",
   LANG: ( process.env.THEME ||  "SUHAIL"  ).toUpperCase(),
 
 
