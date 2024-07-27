@@ -32,7 +32,7 @@ global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]
 
 
 //========================= [ BOT SETTINGS ] =========================\\
-global.style = process.env.STYLE   || '5'  // put '1' to "5" here to check bot styles
+global.style = process.env.STYLE   || '3'  // put '1' to "5" here to check bot styles
 global.flush = process.env.FLUSH   || "false"; // Make it "true" if bot not responed
 global.gdbye = process.env.GOODBYE || "false"; 
 global.wlcm  = process.env.WELCOME || "true";  // Make it "false" for disable WELCOME 
@@ -76,8 +76,8 @@ module.exports = {
  
   author : process.env.PACK_AUTHER|| " 𝑅𝛪𝐽𝑈",
   packname: process.env.PACK_NAME || " 𝑅𝛪𝐽𝑈-𝛸𝛭𝐷",
-  botname : process.env.BOT_NAME  || " 𝑅𝛪𝐽𝑈-𝛸𝛭𝐷",
-  ownername:process.env.OWNER_NAME|| " 𝑅𝛪𝐽𝑈-𝛸𝛭",
+  botname : process.env.BOT_NAME  || " *𝑅𝛪𝐽𝑈-𝛸𝛭𝐷*",
+  ownername:process.env.OWNER_NAME|| " *𝑅𝛪𝐽𝑈-𝛸𝛭*",
 
 
   errorChat : process.env.ERROR_CHAT || "",
