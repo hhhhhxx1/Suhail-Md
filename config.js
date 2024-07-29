@@ -74,9 +74,9 @@ module.exports = {
   VERSION : process.env.VERSION || "1.3.4",
   caption : process.env.CAPTION || " 𝑅𝛪𝐽𝑈-𝛸𝛭𝐷" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ  𝑅𝛪𝐽𝑈-𝛸 』```", //*『follow•』*https://www.instagram.com/riju_editz_1?igsh=dDJsdTlkOGVlbnAx"),
  
-  author : process.env.PACK_AUTHER|| " 𝑅𝛪𝐽𝑈",
-  packname: process.env.PACK_NAME || " 𝑅𝛪𝐽𝑈-𝛸𝛭𝐷",
-  botname : process.env.BOT_NAME  || " *𝑅𝛪𝐽𝑈-𝛸𝛭𝐷*",
+  author : process.env.PACK_AUTHER|| " @𝒓𝒊𝒋𝒖_𝒆𝒅𝒊𝒕𝒛_1",
+  packname: process.env.PACK_NAME || " ◄‌ᯓ⎯꯭᪵᪳𝑅𝛪𝐽𝑈-𝛸𝛭𝐷✿꯭꯭࿐",
+  botname : process.env.BOT_NAME  || " ◄‌ᯓ⎯꯭᪵᪳𝑅𝛪𝐽𝑈-𝛸𝛭𝐷✿꯭꯭࿐",
   ownername:process.env.OWNER_NAME|| " *𝑅𝛪𝐽𝑈-𝛸𝛭*",
 
 
